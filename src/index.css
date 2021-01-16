@@ -13,5 +13,6 @@ code {
 }
 
 .input-field .form-check-input {
-  margin-left: .4rem;
+  margin-left: 0;
+  display: block;
 }
